@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Petra Valence Prediction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Catarina
+    family-names: Dias de Oliveira
+    email: c.dias.de.oliveira@student.tue.nl
+    affiliation: >-
+      Industrial Design Department of Eindhoven University
+      of Technology
+    orcid: 'https://orcid.org/0000-0002-3325-6016'
+  - given-names: Alireza
+    family-names: Khanshan
+    email: a.khanshan@tue.nl
+    affiliation: >-
+      Industrial Design Department of Eindhoven University
+      of Technology
+    orcid: 'https://orcid.org/0000-0002-9112-4695'
+  - given-names: 'Pieter '
+    family-names: Van Gorp
+    email: p.m.e.v.gorp@tue.nl
+    affiliation: >-
+      Industrial Engineering Department of Eindhoven
+      University of Technology
+    orcid: 'https://orcid.org/0000-0001-5197-3986'
+repository-code: 'https://github.com/catolivetree/petra-valence-prediction'
+license: MIT
+version: 0.1.0
+date-released: '2023-05-24'
